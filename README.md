@@ -9,4 +9,4 @@ Simply open the file `index.html` to view.
 - Did not have enough time to complete all the rest of the dynamic functionality and components. This includes: the menu, remaining image cards with parallax effects, image carousel, specific hover effects, the bottom text/info on mobile, and the lower right spinner circle with load percentage.
 - Also didn't get a chance to fully test on mobile and tablets.
 - Used Photoshop to get specific graphics/icons from the received video.
-- Created a "development" branch for testing purposes and did a test commit and merge for demo purposes.
+- Created a "development" branch for testing purposes and did a test commit and merge for demo purposes (via a PR).
